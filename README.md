@@ -10,4 +10,8 @@ If you want to modify it a bit and add some other stuff just fork the repository
 
 ## Animation
 
+Here is the gif version of the video that you can make with this code:
 
+![A slowed gif version of the animation that you can create with this code](gifs/ChristmasMessage.gif)
+
+I suggest adding a Christmas song up to the point when the Christmas tree starts rotating. From the start of the rotation to the end you could add a different song (maybe a funny one 😏).
